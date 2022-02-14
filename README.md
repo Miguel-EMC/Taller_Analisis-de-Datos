@@ -1,5 +1,5 @@
 # Taller_Analisis de Datos
-Recolección de datos de varias plataformas
+Recolección de datos de varias plataformas y alamcenamiento de datos en varios servidores.
  - facebook
  - tiktok
  - entre otras
