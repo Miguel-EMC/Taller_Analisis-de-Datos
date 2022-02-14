@@ -2,7 +2,16 @@
 Recolección de datos de varias plataformas, por ejemplo facebook, tiktok, entre otras
 
 ## 1. Twitter to couchDB
-    - [Twitter to couchDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/01_TWIITTER%20TO%20COUCH.ipynb/)
+    df dvdv  cdv
+    df
+    df
+    fd
+    f
+    df
+    d
+    f
+    d
+    f[Twitter to couchDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/01_TWIITTER%20TO%20COUCH.ipynb/)
  
   ![image](https://user-images.githubusercontent.com/74844624/153785131-3195f757-7466-456a-be39-4dcb9fe97128.png)
 
