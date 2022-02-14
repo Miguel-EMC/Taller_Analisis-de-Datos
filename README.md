@@ -61,10 +61,10 @@ Recolección de datos de varias plataformas, por ejemplo facebook, tiktok, entre
  
   ![image](https://user-images.githubusercontent.com/74844624/153785689-dd999597-68c3-487d-b2ab-257dd1bde15a.png)
 
-13. mongoDB to mysql
+13. mongoDB Atlas to mysql
     - Este sitio se construyó usando [mongoDB to mysql](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/02_twitter%20a%20mongoDB.ipynb/)
 
-  ![image](https://user-images.githubusercontent.com/74844624/153785832-7358d719-4a8c-4c86-825a-5f5b5a11ab7c.png)
+  ![image](https://user-images.githubusercontent.com/74844624/153786142-ad6130a9-3565-4dc6-8c53-1fdff61b88ac.png)
 
 14. mysql to mongoDB
     - Este sitio se construyó usando [mysql to mongoDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/02_twitter%20a%20mongoDB.ipynb/)
