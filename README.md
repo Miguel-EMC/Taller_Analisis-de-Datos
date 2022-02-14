@@ -3,7 +3,9 @@ Recolección de datos de varias plataformas y alamcenamiento de datos en varios 
  - facebook
  - tiktok
  - entre otras
+
 Para mayor informacion sobre el procedimiento de los script realizados en python ingresar en el siguiente enlace: [taller analisis de datos](df)
+
 ## 1. Twitter to couchDB
 Se realizo la recoleccion de datos de un hashtag de deportes, por lo general se generara una base de tados en couchDB de la informacion recolectada con ayuda de un script realizado en python. [Twitter to couchDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/01_TWIITTER%20TO%20COUCH.ipynb/)
  
