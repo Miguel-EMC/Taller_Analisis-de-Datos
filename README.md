@@ -1,9 +1,6 @@
 # Taller_Analisis de Datos
 Recolección de datos de varias plataformas, por ejemplo facebook, tiktok, entre otras
 
-![Capture](https://user-images.githubusercontent.com/74844624/153782545-c0fbe46d-025a-4166-96f7-c8af402f7c41.PNG)
-
-
 1. Twitter to couchDB
     - Este sitio se construyó usando [Twitter to couchDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/02_twitter%20a%20mongoDB.ipynb/)
  
@@ -11,6 +8,8 @@ Recolección de datos de varias plataformas, por ejemplo facebook, tiktok, entre
 
 2. Twitter to mongoDB
     - Este sitio se construyó usando [Twitter to mongoDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/02_twitter%20a%20mongoDB.ipynb/)
+    
+![image](https://user-images.githubusercontent.com/74844624/153785077-55d2dfe3-165b-473a-ad51-56a0b17b36fc.png)
 
 3. Facebook to couchDB
     - Este sitio se construyó usando [Facebook to couchDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/02_twitter%20a%20mongoDB.ipynb/)
