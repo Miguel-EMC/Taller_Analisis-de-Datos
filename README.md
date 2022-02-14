@@ -2,32 +2,27 @@
 Recolección de datos de varias plataformas, por ejemplo facebook, tiktok, entre otras
 
 ## 1. Twitter to couchDB
-Se realizo la recoleccion de datos de un hashtag de deportes, por lo general se generara una base de tados en couchDB de la informacion recolectada con ayuda de un script realizado en python. 
-   [Twitter to couchDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/01_TWIITTER%20TO%20COUCH.ipynb/)
+Se realizo la recoleccion de datos de un hashtag de deportes, por lo general se generara una base de tados en couchDB de la informacion recolectada con ayuda de un script realizado en python. [Twitter to couchDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/01_TWIITTER%20TO%20COUCH.ipynb/)
  
   ![image](https://user-images.githubusercontent.com/74844624/153785131-3195f757-7466-456a-be39-4dcb9fe97128.png)
 
 ## 2. Twitter to mongoDB
-Para la recoleccion de datos de Twitter a MongoDb se lo realizo un script en python, el hashtag que se realizo la busqueda es sobre un juego denomidado "Valorant"
-
-[Twitter to mongoDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/02_twitter%20a%20mongoDB.ipynb/)
+Para la recoleccion de datos de Twitter a MongoDb se lo realizo un script en python, el hashtag que se realizo la busqueda es sobre un juego denomidado "Valorant". [Twitter to mongoDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/02_twitter%20a%20mongoDB.ipynb/)
     
   ![image](https://user-images.githubusercontent.com/74844624/153785077-55d2dfe3-165b-473a-ad51-56a0b17b36fc.png)
 
 ## 3. Facebook to couchDB
-Se realizo la recolección de datos en la plataforma de facebook, sobre la pagina de Nike la cual se enviara toda la informacion a una base de datos en couchDB
-   [Facebook to couchDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/03_Facebook_CouchDb.ipynb/)
+Se realizo la recolección de datos en la plataforma de facebook, sobre la pagina de Nike la cual se enviara toda la informacion a una base de datos en couchDB. [Facebook to couchDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/03_Facebook_CouchDb.ipynb/)
 
   ![image](https://user-images.githubusercontent.com/74844624/153785195-2b35f021-5982-4b32-9bd9-f3b78259ccf4.png)
 
 ## 4. Facebook to mongoDB
-Respecto a los datos que se realizo de facebook sobre la pagina de marvel se tuvo que enviar la informacion a una base de datos en mongoDB con ayuda de un script realizado en python.
-[Facebook to mongoDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/04_Facebook_mogongoDB.ipynb/)
+Respecto a los datos que se realizo de facebook sobre la pagina de marvel se tuvo que enviar la informacion a una base de datos en mongoDB con ayuda de un script realizado en python. [Facebook to mongoDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/04_Facebook_mogongoDB.ipynb/)
    
   ![image](https://user-images.githubusercontent.com/74844624/153785239-266c4eed-b3e2-4493-94a8-60bf1aae583c.png)
 
 ## 5. Tiktok to couchDB
-    -  [Tiktok to couchDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/05_Tiktok_to_CouchDB.jpeg/)
+Se realizo una busqueda de datos gracias a tiktok-scraper de un hashtag sobre Qatar2022 desde el terminal de windows, para enviar el documento csv o json se utilizo la herramienta de git bash y enviar a una base de datos de couchDB.[Tiktok to couchDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/05_Tiktok_to_CouchDB.jpeg/)
 
   ![image](https://user-images.githubusercontent.com/74844624/153785395-c7ace4f2-bb3d-4155-bb5d-3dc5ea691605.png)
 
