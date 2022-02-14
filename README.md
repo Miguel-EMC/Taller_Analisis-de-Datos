@@ -37,6 +37,7 @@ En la busqueda de webscraping se realiza una busqueda en la siguiente pagina [po
  - cell-name
  - cell-icon
  - cell-total
+ 
  Una vez serealizado el script en python se enviara a una base de datos en couchDB. [Web scraping to couchDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/07_Scrappping%20to%20CouchDB.ipynb/)
 
   ![image](https://user-images.githubusercontent.com/74844624/153785507-e9a670e1-a6f3-4cbb-81a0-b62917a4d8f1.png)
