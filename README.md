@@ -43,46 +43,51 @@ En la busqueda de webscraping se realiza una busqueda en la siguiente pagina [po
   ![image](https://user-images.githubusercontent.com/74844624/153785507-e9a670e1-a6f3-4cbb-81a0-b62917a4d8f1.png)
 
 ## 8. Web scraping to mongoDB
-    -  [Web scraping to mongoDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/08_WEB%20SCRAPING%20TO%20MONGODB.ipynb/)
+La busqueda de datos se realizo de la siguiente pagina [Quotes to Scrape](http://quotes.toscrape.com) en la cual se va a realizar una busqueda sobre:
+ - text
+ - author
+ - tags
+ 
+ Una vez realizada la busqueda por medio de un script realizado en python se tendra que enviar a la base de datos en mongoDB. [Web scraping to mongoDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/08_WEB%20SCRAPING%20TO%20MONGODB.ipynb/)
 
   ![image](https://user-images.githubusercontent.com/74844624/153785522-639ca9ea-fd52-4a95-8493-b0200aaf2914.png)
 
 ## 9. couchDB to mongoDB
-    -  [couchDB to mongoDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/09_COUCHDB%20TO%20MONGODB.ipynb/)
+Para poder trasnferir una base de datos ya creada en couchdb se realizo un script elaborado en python en la que se va a enviar a mongoDB. [couchDB to mongoDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/09_COUCHDB%20TO%20MONGODB.ipynb/)
 
   ![image](https://user-images.githubusercontent.com/74844624/153785552-340d18f5-aad9-4e40-a227-85c350bcdf7f.png)
 
 ## 10. mongoDB to couchDB
-    -  [mongoDB to couchDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/10_MONGODB%20%20TO%20COUCHDB.ipynb/)
+Una base de datos en mongoDB va a permitir migrar a otro servidor, en este caso es a couchdb con ayuda de un script realizado en python. [mongoDB to couchDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/10_MONGODB%20%20TO%20COUCHDB.ipynb/)
  
   ![image](https://user-images.githubusercontent.com/74844624/153785603-94aaac09-c0c9-44d3-a8c0-b220dd0e5e72.png)
 
 ## 11. couchDB to mongoDB Atlas
-    -  [couchDB to mongoDB Atlas](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/11_COUCHDB%20TO%20MONGOATLAS.ipynb/)
+Se realiza una conexion de una base de datos desde couchdb a mongoAtlas gracias ayuda de un script realizado en python. [couchDB to mongoDB Atlas](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/11_COUCHDB%20TO%20MONGOATLAS.ipynb/)
  
   ![image](https://user-images.githubusercontent.com/74844624/153785783-bff15b9e-409a-4929-95e1-e0afd536d495.png)
 
 ## 12. mongoDB Atlas to couchDB
-    -  [mongoDB Atlas to couchDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/12_ATLAS%20TO%20COUCHDB.ipynb/)
+ Para la conexion de mongodb Atlas es similar a conectar un servidor mongodb con couchdb con la unica diferencia del enlace de coneccion que emite monogodb Atlas.[mongoDB Atlas to couchDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/12_ATLAS%20TO%20COUCHDB.ipynb/)
  
   ![image](https://user-images.githubusercontent.com/74844624/153785689-dd999597-68c3-487d-b2ab-257dd1bde15a.png)
 
 ## 13. mongoDB Atlas to mysql
-    -  [mongoDB to mysql](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/13_mongoDB_to_MYSQL.csv/)
+En la conexion de mongoDB Atlas hacia couchdb se realizo de manera manual, en la cual se conecto a mongodb compass y se procedio a descargar un documento tipo csv, luego se creo una base de datos en mysql con el nombre de preferencia y finalmente de importo el documento csv. [mongoDB to mysql](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/13_mongoDB_to_MYSQL.csv/)
 
   ![image](https://user-images.githubusercontent.com/74844624/153786142-ad6130a9-3565-4dc6-8c53-1fdff61b88ac.png)
 
 ## 14. mysql to mongoDB
-    -  [mysql to mongoDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/14_mysql_mongoDB.ipynb/)
+[mysql to mongoDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/14_mysql_mongoDB.ipynb/)
 
   ![image](https://user-images.githubusercontent.com/74844624/153785930-c7d9d26e-7ba9-4d91-b32c-1ccf7ef79b29.png)
 
 ## 15. mongoDB to mysql
-    -  [mongoDB to mysql](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/15_mongoDB%20Atlas_to_MYSQL.csv/)
+[mongoDB to mysql](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/15_mongoDB%20Atlas_to_MYSQL.csv/)
    
   ![image](https://user-images.githubusercontent.com/74844624/153786006-29d49b81-d75d-4c8e-9d95-dbd6330f67e0.png)
 
 ## 16. mysql to mongodb Atlas
-    -  [mysql to mongodb Atlas](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/16_mysql_mongoDB%20Atlas.ipynb/)
+[mysql to mongodb Atlas](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/16_mysql_mongoDB%20Atlas.ipynb/)
 
   ![image](https://user-images.githubusercontent.com/74844624/153786049-f2ae334d-4606-46dc-a78c-69aa96ff5500.png)
