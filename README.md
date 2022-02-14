@@ -27,12 +27,17 @@ Se realizo una busqueda de datos gracias a tiktok-scraper de un hashtag sobre Qa
   ![image](https://user-images.githubusercontent.com/74844624/153785395-c7ace4f2-bb3d-4155-bb5d-3dc5ea691605.png)
 
 ## 6. Tiktok to mongoDB
-    -  [Tiktok to mongoDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/06_tiktok_mongoDB.ipynb/)
+Se utilizo tiktok-scraper para realizar una busqueda de datos sobre el hashtah qatar 2020 en lla cual se descargo un archivo json, csv y zip, despues se requierio enviar la informacion a una base de datos que se realiza en mongodb con ayuda de un archivo script realizado en python. [Tiktok to mongoDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/06_tiktok_mongoDB.ipynb/)
 
   ![image](https://user-images.githubusercontent.com/74844624/153785368-0b857119-8c95-45f4-8e66-f564bb04926d.png)
 
 ## 7. Web scraping to couchDB
-    -  [Web scraping to couchDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/07_Scrappping%20to%20CouchDB.ipynb/)
+En la busqueda de webscraping se realiza una busqueda en la siguiente pagina [pokenbdb](https://pokemondb.net/pokedex/all) en la cual se va a realizar una busqueda sobre:
+ - cell-num
+ - cell-name
+ - cell-icon
+ - cell-total
+ Una vez serealizado el script en python se enviara a una base de datos en couchDB. [Web scraping to couchDB](https://github.com/Miguel-EMC/Taller_Analisis-de-Datos/blob/main/07_Scrappping%20to%20CouchDB.ipynb/)
 
   ![image](https://user-images.githubusercontent.com/74844624/153785507-e9a670e1-a6f3-4cbb-81a0-b62917a4d8f1.png)
 
