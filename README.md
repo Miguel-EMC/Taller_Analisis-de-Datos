@@ -4,6 +4,17 @@ Recolección de datos de varias plataformas y alamcenamiento de datos en varios 
  - tiktok
  - entre otras
 
+### Autores ✒️
+
+_Todos los colaboradores del proyecto desde sus inicios son:_
+
+- [Dustin Chávez](https://github.com/Dustinouwu)
+- [Steven Guañuna](https://github.com/Seknys)
+- [Miguel Muzo](https://github.com/Miguel-EMC)
+- [Kevin Pinanjota](https://github.com/kevinpinan)
+
+--- 
+
 Para mayor informacion sobre el procedimiento de los script realizados en python ingresar en el siguiente enlace: [taller analisis de datos](df)
 
 ## 1. Twitter to couchDB
